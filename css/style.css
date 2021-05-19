@@ -1,0 +1,22 @@
+body{
+   background-color: cornflowerblue;
+}
+h1{
+    color: rgb(50, 204, 76);
+}
+p{
+    color: floralwhite;
+}
+h2{
+   color: ivory;
+}
+p{
+    color: darkmagenta;
+}
+ul{
+    color: darkorange;
+}
+
+ol{
+    color: hotpink;
+}
